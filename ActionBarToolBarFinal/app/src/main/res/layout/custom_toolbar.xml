@@ -9,6 +9,7 @@
     app:titleTextColor="@android:color/white"
     android:background="?attr/colorPrimary"
     android:layout_alignParentBottom="true"
+    style="@style/ActionBarTheme"
     >
 
 
